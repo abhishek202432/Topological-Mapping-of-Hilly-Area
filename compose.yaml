@@ -1,0 +1,8 @@
+services:
+  app:
+    image: python:3
+    build: .
+    ports:
+      - 8888:8888
+    container_name: ty-edi
+    command: python -m pipenv shell

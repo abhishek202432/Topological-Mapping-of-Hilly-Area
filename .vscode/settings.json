@@ -1,0 +1,11 @@
+{
+	"python.analysis.typeCheckingMode": "off",
+	"cSpell.words": [
+		"laspy",
+		"matplotlib",
+		"mplot",
+		"scipy",
+		"seaborn",
+		"toolkits"
+	]
+}
